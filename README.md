@@ -1,0 +1,1 @@
+# API_NBP_waluty.NET
