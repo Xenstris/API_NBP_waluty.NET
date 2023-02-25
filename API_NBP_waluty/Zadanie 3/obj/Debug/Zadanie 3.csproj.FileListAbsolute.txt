@@ -1,0 +1,14 @@
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe.config
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.exe
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\bin\Debug\Zadanie 3.pdb
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csprojAssemblyReference.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie_3.Form1.resources
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie_3.Properties.Resources.resources
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.GenerateResource.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.csproj.CopyComplete
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.exe
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie 3.pdb
+C:\Users\Użytkownik\Desktop\C#\Zadanie 3\Zadanie 3\obj\Debug\Zadanie_3.Form2.resources
